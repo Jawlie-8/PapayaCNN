@@ -20,7 +20,7 @@ def main():
     """ Rename image files. """ 
  
     print("[Renaming Images]") 
-    categories = ["standing-crops", "post-harvest-field", "long-fallow"] 
+    categories = ["ripe", "unripe", "overripe"] 
     for category in categories: 
         rename_images("data/preprocessed", category) 
  
