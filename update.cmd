@@ -1,0 +1,1 @@
+pip install -U jupyterlab notebook pandas opencv-python scikit-learn scikit-image matplotlib pillow seaborn tensorflow tabulate
